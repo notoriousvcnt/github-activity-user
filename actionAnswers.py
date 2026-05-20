@@ -1,0 +1,17 @@
+messageToDisplay = {'CommitCommentEvent':'- Commit comments created %d times in %s',
+                    'CreateEvent':'- Branch or tag created %d times in %s',
+                    'DeleteEvent':'- Branch or tag Deleted %d times in %s',
+                    'DiscussionEvent':'- Created Discussion %d times in %s', 
+                    'ForkEvent':'- Forked %d times %s',
+                    'GollumEvent':'- Wiki page created or updated %d times in %s',
+                    'IssueCommentEvent':'- Activity related to issue or pull request comment %d times in %s',
+                    'IssuesEvent':'- Activity related to issues %d times in %s',
+                    'MemberEvent':'- Activity related to repo collaborators %d times in %s',
+                    'PublicEvent':'- Made public %d times repo %s',
+                    'PullRequestEvent':'- Activity related to pull request %d times in %s',
+                    'PullRequestReviewEvent':'- Activity related to pull request reviews %d times in %s',
+                    'PullRequestReviewCommentEvent':'- Activity related to pull request review comments in the pull request\'s unified diff %d times in %s',
+                    'PushEvent':'- Pushed %d commits to %s',
+                    'ReleaseEvent':'- Released %d times in %s',
+                    'WatchEvent':'- Starred %d times %s repo'
+                                                                }
